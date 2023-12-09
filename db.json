@@ -1,29 +1,31 @@
 {
   "events": [
     {
-      "id": 10 ,
+      "id": 10,
       "name": "Bombers",
       "brand": "Black Bombers",
-      "description": " Nouvelle Collection a partir de",
+      "description": "Nouvelle Collection à partir de",
       "location": "Mewo Town",
       "date": "28 january 2024",
-      "prix": "200 DT", 
+      "prix": "200 DT"
     },
     {
-      "id": 11 ,
+      "id": 11,
       "name": "T-shirt",
       "brand": "One Piece t-shirt",
-      "description": " Nouvelle Collection a partir de",
+      "description": "Nouvelle Collection à partir de",
       "location": "Mewo Town",
       "date": "1 january 2024",
-      "prix": " 59 DT", 
+      "prix": "59 DT"
     },
-     {
-      "id": 12 ,
+    {
+      "id": 12,
       "name": "Hood",
       "brand": "White Hood of 2PAC",
-      "description": " Nouvelle Collection a partir de",
+      "description": "Nouvelle Collection à partir de",
       "location": "Mewo Town",
       "date": "25 December 2023",
-      "prix": "120 DT", 
-    },
+      "prix": "120 DT"
+    }
+  ]
+}
