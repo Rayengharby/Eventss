@@ -1,37 +1,29 @@
 {
   "events": [
     {
-      "id": 5928101,
-      "category": "bien-etre animal",
-      "title": "journée d'aaméloration",
-      "description": "trouver votre nouvel ami félin lors de cet événement",
+      "id": 10 ,
+      "name": "Bombers",
+      "brand": "Black Bombers",
+      "description": " Nouvelle Collection a partir de",
       "location": "Mewo Town",
-      "date": "28 january 2022",
-      "time": "12:00",
-      "petsAllowed": true,
-      "organizer": "foulen ben foulen"
+      "date": "28 january 2024",
+      "prix": "200 DT", 
     },
     {
-      "id": 5928101,
-      "category": "bien-etre animal",
-      "title": "journée des invitations",
-      "description": "trouver votre nouvel ami félin lors de cet événement",
+      "id": 11 ,
+      "name": "T-shirt",
+      "brand": "One Piece t-shirt",
+      "description": " Nouvelle Collection a partir de",
       "location": "Mewo Town",
-      "date": "11 decembre 2023",
-      "time": "18:00",
-      "petsAllowed": true,
-      "organizer": "foulen ben foulen"
+      "date": "1 january 2024",
+      "prix": " 59 DT", 
     },
-    {
-      "id": 5928101,
-      "category": "bien-etre animal",
-      "title": "journée d'aaméloration",
-      "description": "trouver votre nouvel ami félin lors de cet événement",
+     {
+      "id": 12 ,
+      "name": "Hood",
+      "brand": "White Hood of 2PAC",
+      "description": " Nouvelle Collection a partir de",
       "location": "Mewo Town",
-      "date": "01 juin 2024",
-      "time": "23:00",
-      "petsAllowed": true,
-      "organizer": "foulen ben foulen"
-    }
-  ]
-}
+      "date": "25 December 2023",
+      "prix": "120 DT", 
+    },
